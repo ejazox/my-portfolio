@@ -1,6 +1,6 @@
 # Ejaz Portfolio
 Willkommen in meinem Portfolio!
-Hier finden Sie meine automatisierungsbezogenen Frameworks für End-to-End-Tests, API-Tests und Performance tests, die mit verschiedenen Tools und Technologien entwickelt wurden
+Hier finden Sie meine automatisierungsbezogenen Frameworks für End-to-End-Tests, API-Tests und Performance tests, die mit latest Tools und Technologien entwickelt wurden
 ## Projects
 
 1. **API Automation mit Playwright**  
