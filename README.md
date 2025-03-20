@@ -8,18 +8,18 @@ Hier finden Sie meine automatisierungsbezogenen Frameworks für End-to-End-Tests
    [GitHub Link] (https://github.com/ejazox/api-test-framework)
 
    **Verwendete Technologien & Tools:**
-      1 Playwright (für die API testing Automatisierung)
-      2 TypeScript (für bessere Struktur und Wartung)
-      3 Docker (für Tests in Containern)
-      4 GitHub Actions (für automatische Testausführung in CI/CD)
+      1. Playwright – für die API-Testautomatisierung  
+      2. TypeScript – für bessere Struktur und Wartung  
+      3. Docker – für Tests in Containern  
+      4. GitHub Actions – für automatische Testausführung in CI/CD
    
 3. **E2E Automation mit Playwright**  
-   Beschreibung: Ein Testautomatisierungs-Framework für E2E testing mit Playwright. 
-   [GitHub Link] https://github.com/ejazox/ShopingSiteDemo/
+      Beschreibung: Ein Testautomatisierungs-Framework für E2E testing mit Playwright. 
+      [GitHub Link] https://github.com/ejazox/ShopingSiteDemo/
 
    **Verwendete Technologien & Tools:**
-      1 Playwright (für die E2E testing Automatisierung)
-      2 TypeScript (für bessere Struktur und Wartung)
-      3 Docker (für Tests in Containern)
-      4 GitHub Actions (für automatische Testausführung in CI/CD)
+      1. Playwright (für die E2E testing Automatisierung)
+      2. TypeScript (für bessere Struktur und Wartung)
+      3. Docker (für Tests in Containern)
+      4. GitHub Actions (für automatische Testausführung in CI/CD)
  
