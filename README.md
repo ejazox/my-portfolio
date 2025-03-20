@@ -18,8 +18,8 @@ Hier finden Sie meine automatisierungsbezogenen Frameworks für End-to-End-Tests
       [GitHub Link] https://github.com/ejazox/ShopingSiteDemo/
 
    **Verwendete Technologien & Tools:**
-      1. Playwright (für die E2E testing Automatisierung)
-      2. TypeScript (für bessere Struktur und Wartung)
-      3. Docker (für Tests in Containern)
-      4. GitHub Actions (für automatische Testausführung in CI/CD)
+      1. Playwright - für die E2E testing Automatisierung
+      2. TypeScript - für bessere Struktur und Wartung
+      3. Docker - für Tests in Containern
+      4. GitHub Actions - für automatische Testausführung in CI/CD
  
