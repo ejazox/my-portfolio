@@ -26,6 +26,7 @@ Hier finden Sie meine automatisierungsbezogenen Frameworks für End-to-End-Tests
 4.  **E2E Automation mit Java Selenium**
       Beschreibung: Ein Testautomatisierungs-Framework für E2E testing mit Java Selenium. 
       [GitHub Link] https://github.com/ejazox/PetClinicJavaDemo
+
     **Verwendete Technologien & Tools:**
       1. Java Selenium - für die E2E testing Automatisierung
       2. Testng - für eine strukturierte Testorganisation
